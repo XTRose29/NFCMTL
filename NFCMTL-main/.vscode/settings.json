@@ -1,0 +1,30 @@
+{
+    "cSpell.words": [
+        "ANFC",
+        "ascontiguousarray",
+        "Checkpointer",
+        "Deconv",
+        "detectron",
+        "fvcore",
+        "hemo",
+        "hflip",
+        "imagenet",
+        "imwrite",
+        "keypoint",
+        "keypoints",
+        "KRCNN",
+        "levelname",
+        "Multiscale",
+        "nailfold",
+        "nailfoldpilot",
+        "nanmean",
+        "ndarray",
+        "nfcmtl",
+        "pooler",
+        "poolers",
+        "pretraining",
+        "rcnn",
+        "segm",
+        "skimage"
+    ]
+}
